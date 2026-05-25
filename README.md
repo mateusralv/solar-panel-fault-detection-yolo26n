@@ -1,6 +1,6 @@
 # Detecção Automatizada de Falhas em Painéis Solares utilizando YOLO26n
 
-Este repositório contém o código-fonte desenvolvido para o Trabalho de Conclusão de Curso (TCC) apresentado à **Universidade Federal de Pernambuco (UFPE)** no ano de 2026. 
+Este repositório contém o código-fonte desenvolvido para o Trabalho de Conclusão de Curso (TCC) que será apresentado à **Universidade Federal de Pernambuco (UFPE)** no ano de 2026. 
 
 O projeto consiste no desenvolvimento e treinamento experimental de um modelo de deep learning baseado na arquitetura **YOLO26n** para a identificação e classificação automatizada de anomalias em módulos fotovoltaicos a partir de imagens multiespectrais.
 
